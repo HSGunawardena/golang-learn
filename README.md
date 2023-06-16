@@ -15,3 +15,7 @@
 ![Go updates](image-2.png)
 
 ![Select all](image-3.png)
+
+* Create a home folder and initialize go using ```go mod init yourRootFolderName``` 
+
+## Take your lessions
